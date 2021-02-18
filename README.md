@@ -2,7 +2,7 @@
 
 This analysis investigates Kickstarter campaigns as a method to generate capital for theater productions. A play in the US with an estimated budget of over $10,000 as well as a musical in Great Britain with an estimated budget of £4000 are the bases for this analysis.
 
-Crowdfunding data over a multi-year span from 2014-2016 was analyzed to assist in crowdfunding plans for your proposed play, *Frenzy*, with a budget of over $10,000. A total of 3038 campaigns conducted in the US and covering multiple categories were analyzed. Of those 3038 campaigns, roughly 30%, or 912, were specifically theater related campaigns as indicated in Figure 1. Furthermore, roughly 20%, or 671, of the total US campaigns were specifically for plays. Of the US crowdfunding data analyzed, theater related campaigns are quite popular.
+Crowdfunding data over a multi-year span from 2009-2017 was analyzed to assist in crowdfunding plans for your proposed play, *Frenzy*, with a budget of over $10,000. A total of 3038 campaigns conducted in the US and covering multiple categories were analyzed. Of those 3038 campaigns, roughly 30%, or 912, were specifically theater related campaigns as indicated in Figure 1. Furthermore, roughly 20%, or 671, of the total US campaigns were specifically for plays. Of the US crowdfunding data analyzed, theater related campaigns are quite popular.
 
 ![Parent_category_outcomes](https://user-images.githubusercontent.com/78708856/108008362-33ec4380-6fce-11eb-9019-0e7e27bf76eb.png)
 *Figure 1. Kickstarter Outcomes by Parent Category*
