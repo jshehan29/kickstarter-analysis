@@ -12,6 +12,8 @@ The overall purpose of this project was to use Microsoft Excel to gain insight i
 
 ## Analysis and Challenges
 
+### Analysis Overview
+
 The analysis performed for this challenge built on the foundation established during the weekly assignment. In the weekly assignment, analysis was performed to assist the client in her crowdfunding decision by analyzing data from Kickstarter that included campaigns from 2009-2017. The client wanted to crowdfund a play, *Frenzy*, in the US with a budget of more than $10,000, and she had questions about a potential musical in Great Britain with an estimated budget of £4,000. To assist the client in her decision and understanding of crowdfunding for theater productions, analysis was performed to investigate campaign outcomes by campaign category as well as launch date. A dataset containing Kickstarter data was supplied and analyzed using various Excel functionality such as filtering, freezing panes, conditional formatting, and built-in Excel functions.
 
 Pivot tables and pivot charts were used to investigate and visualize Kickstarter US campaign outcomes by category as well as all campaign outcomes versus launch date. A stacked bar chart of campaign outcomes by launch date is shown in Fig. 1.
